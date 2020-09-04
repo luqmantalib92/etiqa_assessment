@@ -23,6 +23,10 @@ This project used a few package from [pub.dev](https://pub.dev/).
 - [flutter_staggered_animations](https://pub.dev/packages/flutter_staggered_animations) used to animate column widget startup
 
 
+## Play Store
+
+- Google Play Store [ToDo](https://play.google.com/store/apps/details?id=com.whitegroupmedia.todo)
+
 ## Screenshot
 
 - Page Main
