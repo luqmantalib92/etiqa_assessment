@@ -1,16 +1,21 @@
-# etiqa_assessment
+# To-Do Application (etiqa assessment)
 
-A new Flutter project.
+This project is a flutter application that work as a to-do note taker.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Can add to-do note by pressing add button
+- Can edit to-do note by tapping on any to-do note
+- Can delete to-do note by long pressing on any to-do note
+- Can assign date start and date end to to-do note
+- Can view time left before to-do note expired
+- Can view color change if to-do note expired and completed
+- Sort by incomplete to-do note, expired and lastly completed
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Package
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This project used a few package from [pub.dev](https://pub.dev/).
+- [page_transition] used to create beautiful transition between page
+- [path_provider] used to read path in the device
+- [flutter_staggered_animations] used to animate column widget startup
