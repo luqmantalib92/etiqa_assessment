@@ -16,6 +16,6 @@ This project is a flutter application that work as a to-do note taker.
 ## Package
 
 This project used a few package from [pub.dev](https://pub.dev/).
-- [page_transition] used to create beautiful transition between page
-- [path_provider] used to read path in the device
-- [flutter_staggered_animations] used to animate column widget startup
+- [page_transition](https://pub.dev/packages/page_transition) used to create beautiful transition between page
+- [path_provider](https://pub.dev/packages/path_provider) used to read path in the device
+- [flutter_staggered_animations](https://pub.dev/packages/flutter_staggered_animations) used to animate column widget startup
