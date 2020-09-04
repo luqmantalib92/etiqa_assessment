@@ -19,3 +19,18 @@ This project used a few package from [pub.dev](https://pub.dev/).
 - [page_transition](https://pub.dev/packages/page_transition) used to create beautiful transition between page
 - [path_provider](https://pub.dev/packages/path_provider) used to read path in the device
 - [flutter_staggered_animations](https://pub.dev/packages/flutter_staggered_animations) used to animate column widget startup
+
+
+# Screenshot
+
+- Page Main
+<img src="screenshot/Page%201.png" width="187.5" height="333.5">
+
+- Page create to-do list
+<img src="screenshot/Page%202.png" width="187.5" height="333.5">
+
+- Page assign date to to-do list
+<img src="screenshot/Page%203.png" width="187.5" height="333.5">
+
+- Page Main (gray[Complete], red[Expired], white[Incomplete])
+<img src="screenshot/Page%205.png" width="187.5" height="333.5">
