@@ -1,6 +1,8 @@
 # To-Do Application (etiqa assessment)
 
 This project is a flutter application that work as a to-do note taker.
+This project database is using json and object mapping to store the to-do list.
+All UI are used the standard material design.
 
 ## Features
 
