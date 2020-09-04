@@ -1,4 +1,4 @@
-package com.example.etiqa_assessment
+package com.whitegroupmedia.todo
 
 import io.flutter.embedding.android.FlutterActivity
 
