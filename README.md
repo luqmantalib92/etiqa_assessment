@@ -21,7 +21,7 @@ This project used a few package from [pub.dev](https://pub.dev/).
 - [flutter_staggered_animations](https://pub.dev/packages/flutter_staggered_animations) used to animate column widget startup
 
 
-# Screenshot
+## Screenshot
 
 - Page Main
 <img src="screenshot/Page%201.png" width="187.5" height="333.5">
