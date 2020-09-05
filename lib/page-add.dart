@@ -1,4 +1,4 @@
-import 'package:etiqa_assessment/page-main.dart';
+import 'package:etiqa_assessment/page-list.dart';
 import 'package:flutter/material.dart';
 import 'package:page_transition/page_transition.dart';
 
@@ -83,7 +83,7 @@ class StatePageAdd extends State<PageAdd> {
         context,
         PageTransition(
           type: PageTransitionType.fade,
-          child: PageMain(),
+          child: PageList(),
           duration: Duration(milliseconds: 250),
         ),
       );

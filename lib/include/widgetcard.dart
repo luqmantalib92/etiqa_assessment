@@ -7,7 +7,7 @@ import 'dateconverter.dart';
 import 'colour.dart';
 
 import '../page-add.dart';
-import '../page-main.dart';
+import '../page-list.dart';
 
 // ignore: must_be_immutable
 class WidgetCard extends StatefulWidget {
@@ -107,7 +107,7 @@ class StateWidgetCard extends State<WidgetCard> {
             context,
             PageTransition(
               type: PageTransitionType.fade,
-              child: PageMain(),
+              child: PageList(),
               duration: Duration(milliseconds: 250),
             ),
           );
